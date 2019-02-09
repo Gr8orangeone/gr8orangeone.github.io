@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2c7f592-96a2-4c68-977c-ffe9626ce92c" name="Default Changelist" comment="" />
+    <list default="true" id="e2c7f592-96a2-4c68-977c-ffe9626ce92c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/UnityLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/webgl.asm.code.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/webgl.asm.framework.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/webgl.asm.memory.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/webgl.data.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/Build/webgl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/UnityProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressEmpty.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressFull.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressFull.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressLogo.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/progressLogo.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/TemplateData/webgl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rivers/web.config" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -115,36 +137,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StorefrontVR.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rivers/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rivers/debug.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Rivers/Build/UnityLoader.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -201,8 +200,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/FalconVR.html" />
         <option value="$PROJECT_DIR$/StomaVR.html" />
-        <option value="$PROJECT_DIR$/StorefrontVR.html" />
         <option value="$PROJECT_DIR$/Rivers/index.html" />
+        <option value="$PROJECT_DIR$/StorefrontVR.html" />
       </list>
     </option>
   </component>
@@ -230,11 +229,6 @@
             <path>
               <item name="gr8orangeone.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gr8orangeone.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gr8orangeone.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gr8orangeone.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Rivers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,18 +279,17 @@
       <workItem from="1541025709889" duration="2799000" />
       <workItem from="1541256853108" duration="864000" />
       <workItem from="1545178660752" duration="7763000" />
-      <workItem from="1549680588898" duration="2834000" />
+      <workItem from="1549680588898" duration="3524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20497000" />
+    <option name="totallyTimeSpent" value="21187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3848" y="-8" width="3856" height="2136" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22289157" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22289157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +301,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3071928" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3071928" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -397,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StorefrontVR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rivers/debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -420,6 +406,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rivers/Build/UnityLoader.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StorefrontVR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
