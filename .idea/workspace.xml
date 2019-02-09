@@ -63,35 +63,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
+          <entry key="js" value="1" />
+          <entry key="log" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/About.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FalconVR.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FinalsFrightAR.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,8 +124,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rivers/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rivers/debug.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rivers/Build/UnityLoader.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -188,6 +202,7 @@
         <option value="$PROJECT_DIR$/FalconVR.html" />
         <option value="$PROJECT_DIR$/StomaVR.html" />
         <option value="$PROJECT_DIR$/StorefrontVR.html" />
+        <option value="$PROJECT_DIR$/Rivers/index.html" />
       </list>
     </option>
   </component>
@@ -220,12 +235,6 @@
               <item name="gr8orangeone.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gr8orangeone.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Rivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gr8orangeone.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gr8orangeone.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Rivers" type="462c0819:PsiDirectoryNode" />
-              <item name="TemplateData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,15 +285,16 @@
       <workItem from="1541025709889" duration="2799000" />
       <workItem from="1541256853108" duration="864000" />
       <workItem from="1545178660752" duration="7763000" />
-      <workItem from="1549680588898" duration="1246000" />
+      <workItem from="1549680588898" duration="2834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18909000" />
+    <option name="totallyTimeSpent" value="20497000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3848" y="-8" width="3856" height="2136" extended-state="7" />
+    <frame x="-3848" y="-8" width="3856" height="2136" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22289157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -394,7 +404,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Rivers/debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Rivers/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rivers/Build/UnityLoader.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
