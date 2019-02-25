@@ -44,7 +44,7 @@ body{
 
 #hero-vid {
   backface-visibility:hidden;
-  background:url("http://www.markhillard.com/sandbox/media/polina.jpg") no-repeat scroll 0 0 #000;
+  
   background-size:cover;
   bottom:0;
   height:auto;
