@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WCJ Interactive</title>
+    <link rel="stylesheet" type="text/css" href="Paralax.css">
+    <script type="javascript" src = "paralax.js"></script>
+</head>
+<body>
+<div class="topnav" id="title">
+    <h1>William Johnston <a href="About.html">About</a><a href="index.html">Home</a></h1>
+
+</div>
+<div id="noverlay">
+    <!--<div id="title"><h1>William Johnston</h1></div>-->
+    <video class="visible-desktop" id="hero-vid" poster="statue.jpg" autoplay loop muted>
+        <source type="video/mp4" src="ffvid.mp4"></source>
+    </video>
+    <div id="state" class="visible-desktop"><span class="fa fa-pause"></span></div>
+    <img id="hero-pic" class="hidden-desktop" src="statue.jpg" alt="">
+</div>
+
+<div id="overlay" class="content">
+
+    <p class="content">
+        This is an over arching view of the projection tools and projects I have worked on. All of these are personal passion projects that have some ground in things I have seen and wanted to try and
+        recreate effectively and inexpensively
+
+        <br>
+        The first is an interactive projection project that I created it uses 2 projectors and a camera to
+        show  projection only where people are in relation to the projection. This was my first experience with this type of projection mapping, for this I used a software called Lightact. Using the the software
+        I was able to create a large blended display using Lightacts blending and mapping tools. To mask I used a standard web cam and Lightact's built in computer vision tools to remove the background from the webcam
+        video.
+
+        <br>
+        <img class="fiddy" src="ff2.jpg">
+        <img class="fiddy" src="ff1.jpg">
+        <br>
+
+        This second project was another 2 projector mapped display, I used Lightact again to perform the distortion and mapping. While not the best VR CAVE this proof of concept is a great example of the
+        functionality of a CAVE in the MoCap space we have. I spent a number of hours fixing the distortion on the projectors to have one large 1 full wall plus 2 half walls show up properly. For content I am using
+        Spout to stream 3 1920x1200 outputs to Lightact where I then combine them into one 5760x1200 canvas. From there I mapped the 2 projectors onto the canvas and output to a both projectors with a 3840x1200 output
+        I learned a lot about these tools from this project and I am excited to learn even more about them.
+
+        <br>
+        <img class="hundie" src="ff3.jpg">
+
+        <br>
+
+        <a class="bigtext" href="index.html">back</a>
+    </p>
+
+
+</div>
+
+</body>
+</html>
