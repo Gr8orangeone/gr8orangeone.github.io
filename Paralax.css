@@ -50,6 +50,7 @@ body{
   backface-visibility:hidden;
   background-color: black;
   background-size:cover;
+  object-fit: cover;
   bottom:0;
   height:auto;
   min-height:100%;
