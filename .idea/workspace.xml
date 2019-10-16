@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c7f592-96a2-4c68-977c-ffe9626ce92c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Paralax.css" beforeDir="false" afterPath="$PROJECT_DIR$/Paralax.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Paralax.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="468">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -111,6 +109,7 @@
     <findStrings>
       <find>margin</find>
       <find>colo</find>
+      <find>hero</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,12 +207,12 @@
       <workItem from="1550890883053" duration="4673000" />
       <workItem from="1551054341637" duration="3399000" />
       <workItem from="1570568245579" duration="6037000" />
-      <workItem from="1571253499692" duration="280000" />
+      <workItem from="1571253499692" duration="714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37122000" />
+    <option name="totallyTimeSpent" value="37556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -331,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Paralax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="468">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
         </state>
       </provider>
     </entry>
