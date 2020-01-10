@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c7f592-96a2-4c68-977c-ffe9626ce92c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ProjectionMedia/20191121_165731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectionMedia/Calibrated.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectionMedia/Content.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectionMedia/PreCalibration.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projection.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +45,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Will J\Documents\gr8orangeone.github.io\SSTalk" />
-      <recent name="C:\Users\The Fridge\Documents\GitHub\gr8orangeone.github.io\Rivers" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Will J\Documents\gr8orangeone.github.io\SSTalk" />
       <recent name="C:\Users\The Fridge\Documents\GitHub\gr8orangeone.github.io\rivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Will J\Documents\gr8orangeone.github.io\ProjectionMedia" />
+      <recent name="C:\Users\Will J\Documents\gr8orangeone.github.io\SSTalk" />
+      <recent name="C:\Users\The Fridge\Documents\GitHub\gr8orangeone.github.io\Rivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,7 +92,8 @@
       <workItem from="1571253499692" duration="3105000" />
       <workItem from="1575303172203" duration="10713000" />
       <workItem from="1575561981212" duration="209000" />
-      <workItem from="1575564495267" duration="2376000" />
+      <workItem from="1575564495267" duration="4491000" />
+      <workItem from="1578685342452" duration="1134000" />
     </task>
     <servers />
   </component>
