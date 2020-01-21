@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c7f592-96a2-4c68-977c-ffe9626ce92c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Twine/Essylite.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/Hard Boiled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/Jack_and_the_Beanstalk_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/Just Another Day at the Office.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/PetJourney_Diego.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/Rhian's Twine Game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/ShichengWen_TwineGame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twine/TwineGame_YuxinLi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Twine/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +89,7 @@
       <workItem from="1575561981212" duration="209000" />
       <workItem from="1575564495267" duration="4491000" />
       <workItem from="1578685342452" duration="2374000" />
-      <workItem from="1579626623880" duration="4081000" />
+      <workItem from="1579626623880" duration="4776000" />
     </task>
     <servers />
   </component>
