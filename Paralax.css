@@ -157,11 +157,18 @@ body{
 .grid {
   column-count: 2;
 }
+.grid1 {
+  column-count: 1;
+}
 .clicky{
   max-width: 49.5vw;
 }
 .fiddy{
   max-width: 49vw;
+}
+.Split{
+  width: 49vw;
+  height: 540px;
 }
 
 .hundie{
